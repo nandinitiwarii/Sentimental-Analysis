@@ -1,1 +1,11 @@
 # Sentimental-Analysis
+Install the following libraires:
+
+streamlit
+speech_recognition
+pandas
+altair
+transformers
+textblob
+vaderSentiment.vaderSentiment
+googletrans
